@@ -1,0 +1,101 @@
+body {
+    background-image: url(Glr6Tz_XQAAOrLW.jpg);
+    background-size: cover;
+}
+.Home {
+    display: flex;
+    justify-content: end;
+}
+h1 {
+  
+  font-size: 72px;
+  background: -webkit-linear-gradient(#506679, #C4C23A);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2 {
+  font-size: 55px;
+  background: -webkit-Radial-gradient(#C4C23A, #506679);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.flex-container{
+  display: flex;    
+  justify-content: center;
+  justify-content: space-evenly;
+  margin-top: 200px;
+  
+}
+      
+
+.box-1{
+  background-color: rgb(#D7B761/ 0.2);
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  background-image: url(Gustave.avif);
+  background-size: cover;
+  background-position: center
+  
+}
+
+.box-1 img {
+  width: 100%;
+  height: auto;
+}
+  
+.box-2 {
+  background-color: rgb(#D7B761/ 0.2);
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  background-image: url(maelle.avif);
+  background-size: cover;
+  }
+   .box-2 img {
+  width: 100%;
+  height: auto;
+  } 
+.box-3{
+  background-color: rgb(#D7B761/ 0.2);
+  width: 300px;
+  height: 200px; 
+  text-align: center;
+  background-image: url(lune-bio-page-alt.avif);
+  background-size: cover;
+  }
+ .box-3 img {
+  width: 100%;
+  height: auto;
+  } 
+.box-4{
+  background-color: rgb(#D7B761/ 0.2);
+  width: 300px;
+  height: 200px; 
+  text-align: center;
+  background-image: url(Sciel.avif);
+  background-size: cover;
+  }
+ .box-4 img {
+  width: 100%;
+  height: auto;
+  }
+  a{
+  text-decoration: none;
+  color: lightblue
+  
+    }
+  .box-1:hover {
+  transform: translate(0, -10px);
+  } 
+  .box-2:hover {
+  transform: translate(0, -10px);
+  } 
+  .box-3:hover {
+  transform: translate(0, -10px);
+  } 
+  .box-4:hover {
+  transform: translate(0, -10px);
+  } 
+  

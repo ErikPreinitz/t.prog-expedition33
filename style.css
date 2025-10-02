@@ -1,0 +1,92 @@
+body {
+  background-image: url(vlcsnap-2025-04-22-20h55m00s453\\(1\)\\(1\).avif);
+  background-size: cover;
+  background-color: #555;
+  font-family: "Inknut Antiqua";
+}
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#506679, #c4c23a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h2 {
+  font-size: 55px;
+  background: -webkit-Radial-gradient(#c4c23a, #506679);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container-top {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container-bottom {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.box-1 {
+  border: 3px solid rgb(44, 45, 45);
+  border-radius: 15%;
+  background-color: rgb(#D7B761/ 0.2);
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  background-image: url(monolitclairobscurexpedition33.webp);
+  background-size: cover;
+  background-position: center;
+}
+
+.box-1 img {
+  width: 100%;
+  height: auto;
+}
+
+.box-2 {
+  border: 3px solid rgb(44, 45, 45);
+  border-radius: 15%;
+  background-color: rgb(#D7B761/ 0.2);
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  background-image: url(aFM6frNJEFaPYFbF_Clair-Obscur-Expedition-33-characters-shoulder-to-shoulder.avif);
+  background-size: cover;
+}
+.box-2 img {
+  width: 100%;
+  height: auto;
+}
+.box-3 {
+  border: 3px solid rgb(44, 45, 45);
+  border-radius: 15%;
+  background-color: rgb(#D7B761/ 0.2);
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  background-image: url(Coe33_Camp.webp);
+  background-size: cover;
+}
+.box-3 img {
+  width: 100%;
+  height: auto;
+}
+a {
+  text-decoration: none;
+  color: lightblue;
+}
+.box-1:hover {
+  transform: translate(0, -10px);
+}
+.box-2:hover {
+  transform: translate(0, -10px);
+}
+.box-3:hover {
+  transform: translate(0, -10px);
+}
