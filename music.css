@@ -6,13 +6,29 @@ body {
 }
 
 h1 {
-  font-size: 72px;
+  font-size: 50px;
   background: -webkit-linear-gradient(#333, #333);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
 .container-1 iframe {
-  height: 55vh;
-  width: 100vh;
+  height: 40vh;
+  width: 60vh;
+}
+.container-2 iframe {
+  height: 40vh;
+  width: 60vh;
+}
+.container-3 iframe {
+  height: 40vh;
+  width: 60vh;
+}
+.Home {
+  display: flex;
+  justify-content: end;
+  align-items: start;
 }
